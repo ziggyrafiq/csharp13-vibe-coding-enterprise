@@ -16,26 +16,25 @@ This repo demonstrates how to apply **Vibe Coding** — the flow-based approach 
 ![](Docs/ziggy-rafiq-developer-tangled-ball-of-code.png)
 
 ### The Benefits of Clean Architecture and Vibe Coding
-![](docs/ziggy-rafiq-side-by-side-code-comparison.png)
+![](Docs/ziggy-rafiq-side-by-side-code-comparison.png)
 
 ###  Vibe Coding in Enterprise Environments with C# 13: Adopt a Clean Architecture as a foundation
-![](docs/ziggy-rafiq-clean-architecture-concentric-circle.png)
+![](Docs/ziggy-rafiq-clean-architecture-concentric-circle.png)
 
 ### Create a Vibe Coding Charter
-![](docs/ziggy-rafiq-vibe-coding-charter-simple-workflow.png)
+![](Docs/ziggy-rafiq-vibe-coding-charter-simple-workflow.png)
 
 ### Enterprise Customer and Order Processing API
-![](ziggy-rafiq-vibe-coding-charter-simple-workflow-process.png)
+![](Docs/ziggy-rafiq-vibe-coding-charter-simple-workflow-process.png)
 
 ### Best Practices & Industry Standards
-![](docs/ziggy-rafiq-enterprise-vibe-coding-best-practices.png)
+![](Docs/ziggy-rafiq-enterprise-vibe-coding-best-practices.png)
 
 ### The Vibe Coding Flow
-![](docs/ziggy-rafiq-vibe-coding-flow.png)
+![](Docs/ziggy-rafiq-vibe-coding-flow.png)
 
 
 ## Key Features
-
 - **Domain Layer** → Immutable entities (`Order`, `Customer`), `OrderStatus` enum, repository interfaces.  
 - **Application Layer** → Services (`CustomerService`, `OrderService`) orchestrating business logic.  
 - **Infrastructure Layer** → JSON-based repositories (`InMemoryCustomerRepository`, `InMemoryOrderRepository`).  
