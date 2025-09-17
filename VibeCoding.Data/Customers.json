@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "7b3a571b-d394-4b72-a219-0923e1852ddb",
+    "Name": "Lerzan Demir",
+    "Email": "lerzan.demir@dummy-no-email.com",
+    "Role": "Admin"
+  },
+  {
+    "Id": "e7c4ec88-c4e8-4b7f-a4ca-57067502b70a",
+    "Name": "Yusuf Kaya",
+    "Email": "yusuf.kaya@dummy-no-email.com",
+    "Role": "User"
+  },
+  {
+    "Id": "585cbf93-4fb8-44ba-8cfe-15f5634e4651",
+    "Name": "Fatma Ali",
+    "Email": "fatma.ali@dummy-no-email.com",
+    "Role": "Auditor"
+  }
+]

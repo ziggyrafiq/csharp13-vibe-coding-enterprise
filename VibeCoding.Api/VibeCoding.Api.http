@@ -1,0 +1,19 @@
+@VibeCoding.Api_HostAddress =https://localhost:7223
+
+### Customers API test (requires role query string) 
+GET {{VibeCoding.Api_HostAddress}}/api/customers/7b3a571b-d394-4b72-a219-0923e1852ddb?role=Admin
+Accept: application/json
+
+
+
+###
+
+# Unauthorized role (should return 403)
+GET {{VibeCoding.Api_HostAddress}}/api/customers/7b3a571b-d394-4b72-a219-0923e1852ddb?role=Guest
+Accept: application/json
+
+###
+
+###  Approve orders using the Orders API
+POST {{VibeCoding.Api_HostAddress}}/api/orders/cd6df2cb-530c-47cf-85dd-680ed71ad816/approve
+Accept: application/json

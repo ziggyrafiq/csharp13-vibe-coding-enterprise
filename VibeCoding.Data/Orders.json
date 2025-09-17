@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "cd6df2cb-530c-47cf-85dd-680ed71ad816",
+    "CustomerId": "7b3a571b-d394-4b72-a219-0923e1852ddb",
+    "Amount": 185.48,
+    "Status": "Pending"
+  },
+  {
+    "Id": "6dfd84f6-c210-429c-8212-d71364c6581e",
+    "CustomerId": "e7c4ec88-c4e8-4b7f-a4ca-57067502b70a",
+    "Amount": 195.10,
+    "Status": "Approved"
+  },
+  {
+    "Id": "34e0a459-4728-41dc-a033-aed9f435f984",
+    "CustomerId": "585cbf93-4fb8-44ba-8cfe-15f5634e4651",
+    "Amount": 15.80,
+    "Status": "Rejected"
+  }
+]
