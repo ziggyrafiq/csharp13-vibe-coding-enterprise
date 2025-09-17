@@ -13,7 +13,7 @@ This repo demonstrates how to apply **Vibe Coding** — the flow-based approach 
 **Link to the Article** **[Clean Code, Clean Architecture, and Sustainable Practices with Vibe Coding C# 13 in Enterprise Environments](https://www.c-sharpcorner.com/article/clean-code-clean-architecture-and-sustainable-practices-with-vibe-coding-c-sharp-13/)**  
 
 ### Enterprise Development Challenges
-![](docs/ziggy-rafiq-developer-tangled-ball-of-code.png)
+![](Docs/ziggy-rafiq-developer-tangled-ball-of-code.png)
 
 ### The Benefits of Clean Architecture and Vibe Coding
 ![](docs/ziggy-rafiq-side-by-side-code-comparison.png)
