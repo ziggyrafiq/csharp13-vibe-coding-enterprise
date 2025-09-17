@@ -44,7 +44,7 @@ This repo demonstrates how to apply **Vibe Coding** — the flow-based approach 
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
 ```bash
 # Clone repo
@@ -79,7 +79,7 @@ POST /api/orders/{id}/approve
 
 ---
 
-## 📦 Seed Data
+##  Seed Data
 
 Located in `VibeCoding.Data/`
 
